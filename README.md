@@ -1,4 +1,4 @@
-# The AI Culinary Journal 📖
+# Swadanasur 📖
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-ff69b4.svg)
